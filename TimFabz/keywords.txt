@@ -1,0 +1,46 @@
+#Datatypes and class names (KEYWORD1)
+
+retardo_fabz	KEYWORD1
+TimFabz    KEYWORD1
+tim    KEYWORD1
+Temp    KEYWORD1 
+SMarkF    KEYWORD1
+TempF    KEYWORD1
+#Datatypes functions and methods(KEYWORD2)
+
+Temporizador	KEYWORD2
+Reinicio_Temp	KEYWORD2
+setCallBack    KEYWORD2
+update    KEYWORD2
+reset    KEYWORD2
+getState    KEYWORD2
+getState    KEYWORD2
+setState    KEYWORD2
+getSetPoint    KEYWORD2
+setSetPoint    KEYWORD2
+getTime    KEYWORD2
+setTime    KEYWORD2
+function_callback0    KEYWORD2
+initSM    KEYWORD2
+getSM    KEYWORD2
+initTempo    KEYWORD2
+setTempo    KEYWORD2
+getMili    KEYWORD2
+setMili    KEYWORD2
+getSegu    KEYWORD2
+setSegu    KEYWORD2
+getMinu    KEYWORD2
+setMinu    KEYWORD2
+getHora    KEYWORD2
+setHora    KEYWORD2
+getEnable    KEYWORD2
+setEnable    KEYWORD2
+clear    KEYWORD2
+getStateTemp    KEYWORD2
+setStateTemp    KEYWORD2
+fBandera    KEYWORD2
+fRst    KEYWORD2
+
+#defines
+
+DEFAULT_STATE	LITERAL1

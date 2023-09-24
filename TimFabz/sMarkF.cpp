@@ -138,7 +138,7 @@ void SMarkF::runSM() {
     // Reinicio_Temp
     reset();
 
-    if (cont_ticks >= modu[4]) {
+    if (cont_ticks >= mayor) {
       cont_ticks = 1;
     }  // fin if
 
